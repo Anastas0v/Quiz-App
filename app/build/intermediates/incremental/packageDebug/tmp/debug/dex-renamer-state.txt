@@ -1,0 +1,4 @@
+#Wed May 25 20:06:29 CEST 2022
+base.0=E\:\\Problems\\Mobile_Platforms-Kotlin\\Quiz_App\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
